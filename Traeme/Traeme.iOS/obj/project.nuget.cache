@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OiMdidQexyx0FVc6fcnccsBI95VS60iqncwWf4rd0Z78okqpH9v1VhaZyZLgg563Hr+ypitbqJ5LC2pfI3m5yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\source\\repos\\Traeme\\Traeme\\Traeme.iOS\\Traeme.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
